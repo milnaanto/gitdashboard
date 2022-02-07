@@ -1,0 +1,44 @@
+h1{
+    color: crimson;
+}
+.intro{
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    width: 550px;
+    margin: 10px;
+    padding: 20px 20px;
+    border-radius: 60px;
+    box-sizing: border-box;
+    border-style: none;
+    background-color: rgb(89, 10, 179);
+    color: white;
+}
+.intro h2{
+    color: rgb(241, 244, 245);
+text-align: left;
+padding-top: 0px;
+}
+button:hover{background-color: rgb(127, 236, 250);}
+body{
+    background-color: rgb(252, 252, 245);
+}
+h3{
+    color: crimson;
+}
+h2{
+    color: crimson
+}
+table, th, td{
+border: 1px solid black;
+border-collapse: collapse;
+}
+table{
+    width: 50%;
+    text-align: center;
+}
+th{
+    background-color: rgb(3, 65, 34);
+    color: white;
+}
+tr :hover{background-color: turquoise;}
+  
